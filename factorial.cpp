@@ -10,4 +10,5 @@ int main()
         result = result * i;
     }
     cout << "the factorial of" << n << "is :" << result << endl;
+    return 0;
 }

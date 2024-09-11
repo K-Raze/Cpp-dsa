@@ -8,7 +8,7 @@ void convert(char &alpha)
 int main()
 {
     char alpha;
-    cout << "Enter a small case alphabet :";
+    cout << "Enter a small case alphabet : ";
     cin >> alpha;
     convert(alpha);
 
