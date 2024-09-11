@@ -4,7 +4,7 @@ using namespace std;
 int dig(int n)
 {
     int ans = 0;
-    while (n > 0)
+    while (n !=0 )
     {
         n /= 10;
         ans++;
